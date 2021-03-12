@@ -85,6 +85,7 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 2",Server2------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 3 (12:00am-6:00pm)",Server3------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="BDIX Server 4",Server4-----------
+#EXTINF:-1 tvg-logo="" group-title="BDIX Server 6",Server6-----------
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD-----------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB------------------------------------------------------------------------
@@ -108,8 +109,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 
 
 #EXTINF:-1 tvg-logo="" group-title="New",31.AB TV
-http://pn.tvott.info:80/477823265351104/477823265351104/83793
-#EXTINF:-1 tvg-logo="" group-title="New",31.Agami TV
+
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",31.Agami TV
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="BD IPTV",31.Al Dawah
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
@@ -121,21 +122,21 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="BD IPTV",32.Ayna TV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="New",32.Bangla Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="BD IPTV",32.Bangla Channel
 http://str24.l9574.com/515.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmJkdHViZS5saXZlLnR2X3NjcmVlbnNob3RzXzFfOWI0ZTcwMTI/screen-1.jpg?fakeurl=1&type=.jpg" group-title="New",32.BD Live TV
 
 #EXTINF:-1 tvg-logo="" group-title="BD IPTV",33.Biswa Bangla 24 TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="New",33.Bongo TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="BD IPTV",33.Bongo TV
 http://pn.tvott.info:80/477823265351104/477823265351104/83795
-#EXTINF:-1 tvg-logo="" group-title="New",34.Can Bangla TV
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",34.Can Bangla TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qruo84PP04jnPb1rC1TR67DHd5gU9CfP8mZtdh2kVbbGB9equQKFIGjlYK4k62TJ8Yk" group-title="BD IPTV",34.CCN Bangla
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Channel_H-logo.png" group-title="BD IPTV",34.Channel H
 
-#EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="New",34.Channel S
+#EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="BD IPTV",34.Channel S
 http://str24.l9574.com/519.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png" group-title="BD IPTV",34.Channel T1
 
@@ -143,21 +144,21 @@ http://str24.l9574.com/519.stream/index.m3u8
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/City_Channel_%28Dublin%29.png/200px-City_Channel_%28Dublin%29.png" group-title="BD IPTV",36.City TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/citytv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New",36.Colors BD TV
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",36.Colors BD TV
 http://master.beeiptv.com:8081/CB/colorsbdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="BD IPTV",37.Cumilla 24 TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.deshebideshe.com/wp-content/uploads/2020/10/Newspaper-Logo.png" group-title="New",37.Deshe Bideshe
+#EXTINF:-1 tvg-logo="https://www.deshebideshe.com/wp-content/uploads/2020/10/Newspaper-Logo.png" group-title="BD IPTV",37.Deshe Bideshe
 http://str24.l9574.com/505.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="BD IPTV",38.Deshi TV
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="New",38.Digi Bangla
 
-#EXTINF:-1 tvg-logo="" group-title="New",38.Doyel TV
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",38.Doyel TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="" group-title="New",38.Falguni TV
+#EXTINF: -1 tvg-logo="" group-title="BD IPTV",38.Falguni TV
 https://atv-hls.telelivebd.com:443/atv/atv.m3u8
-#EXTINF: -1 tvg-logo="" group-title="New",38.Fan Fest TV
+#EXTINF: -1 tvg-logo="" group-title="BD IPTV",38.Fan Fest TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/funfest.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BD IPTV",38.Hernet TV
@@ -176,9 +177,9 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1037326822327771137/3kMT-9Go_400x400.jpg" group-title="BD IPTV",43.Magic Bangla IPTV
 
-#EXTINF:-1 tvg-logo="" group-title="New",43.MAQ TV
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",43.MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New",43.Meem TV
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",43.Meem TV
 http://str24.l9574.com/502.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.millenniumtv.org/wp-content/uploads/2017/01/IMG_1669-e1484721043731.png" group-title="BD IPTV",44.Millennium TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
@@ -213,15 +214,14 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw" group-title="BD IPTV",50.TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New",51.The Channel TV
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",51.The Channel TV
 http://str24.l9574.com/518.stream/index.m3u8
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyu9IgVGbqT0a7Ip2Vu8dAAZQfJ43mMgMtBWd1O=s900-c-k-c0x00ffffff-no-rj" group-title="BD IPTV",51.Time TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="New",51.US Bangla
-http://str24.l9574.com/520.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="New",51.Utshorgo TV
-https://tempx.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/utshoratv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000666839783-brht5n-t500x500.jpg" group-title="New",51.Varendra TV
 
@@ -229,7 +229,7 @@ https://tempx.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnlvdXRoYmFuZ2xhdHYudHZfc2NyZWVuXzBfMTUyMTgxMDE4NF8wMjE/screen-0.jpg?fakeurl=1&type=.jpg" group-title="BD IPTV",53.Youth Bangla TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/youthbanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="New",54.52 TV
+#EXTINF:-1 tvg-logo="" group-title="BD IPTV",54.52 TV
 http://str24.l9574.com/503.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="BD IPTV",54.71 Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
@@ -239,14 +239,14 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1 tvg-logo="" group-title="New",55.DD Bangla
-http://pn.tvott.info:80/477823265351104/477823265351104/83827
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian Bangla",55.Ruposhi Bangla
 http://103.205.133.20/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="Indian Bangla",56.News Time Bangla
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8C17OHzijjU/hqdefault_live.jpg" group-title="Indian Bangla",56.Orange Bangla
 https://itvorigin.multitvsolution.com/idvo/orangetv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="New",56.Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="Indian Bangla",56.Enter 10 Bangla
 http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla",57.News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=soheliptv01826655778
@@ -270,8 +270,8 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",61.Discovery
 http://84.22.33.210:8000/DiscoveryCH/index.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",62.Discovery Bangla
-
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",62.Discovery TV
+http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",63.Discovery Hindi
 https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",64.Discovery Tamil
@@ -290,10 +290,10 @@ https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
 https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet
 https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="New",71.Animal Planet HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet HD
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet Spanish
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",71.Nat Geo
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",71.Nat Geo UAE
@@ -312,7 +312,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",75.TLC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="New",75.TLC Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",75.TLC Hindi
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",75.TLC HD
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -345,9 +345,9 @@ https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 #EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",77.Discovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="Kids",78.Animax
-
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="Kids",79.AniPlus
-
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" group-title="Kids",80.EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Kids",81.BBC Cbeebies
@@ -358,19 +358,24 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",84.Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh_AH7Uqn6u1cQHc-vu8vKnUMCD9819PwGeYH0LV3PFx15k81kabfACh7&s=10" group-title="Kids",84.Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",84.MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSHbSX9sd5fLs7-JGPua0waVKK58DPPn9IwQ&usqp=CAU" group-title="Kids",85.Disney Channel India
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSHbSX9sd5fLs7-JGPua0waVKK58DPPn9IwQ&usqp=CAU" group-title="Kids",85.Disney Channel USA
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZomY2Q955WLKZMSTCfRxwxTWZBEqTJSb_L38rmmTovuw3u-s3&usqp=CAU" group-title="Kids",85.Disney Junior	
-http://79.137.41.99/DisneyChannel/index.m3u8?token=soheliptv01826655778
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids",86.Cartoon Network India
-https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids",86.Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids",86.Cartoon Network HD+
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-id="ext" group-title="Kids",86.Nick Jr.
-
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="Kids",86.Pogo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids",86.Sonic
@@ -439,9 +444,9 @@ http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",105.Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian",105.Sony Max HD
-
+http://208.115.215.42:80/SonY_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian",105.Sony Max 2
-
+http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",106.Sony TV
 http://103.205.133.20/hls/chs.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",106.Sony TV HD
@@ -449,7 +454,7 @@ http://103.205.133.20/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",106.Sony Sab
 
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",106.Sony Sab HD
-
+http://208.115.215.42:80/SonY_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" group-title="Indian",107.Sony Pal
 
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg" group-title="Indian",107.Sony Wah
@@ -1104,5 +1109,206 @@ http://10.16.100.201/hindi/sportsT.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Al Dawah" tvg-logo="" group-title="BDIX Server 6",Al Dawah
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="http://roarmediazone.com/tv/weblogo/85.jpg" group-title="BDIX Server 6",Ananda TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="http://roarmediazone.com/tv/weblogo/69.jpg" group-title="BDIX Server 6",Asian TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/107.jpg" group-title="BDIX Server 6",ATN Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="" group-title="BDIX Server 6",ATN Music
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="http://roarmediazone.com/tv/weblogo/108.jpg" group-title="BDIX Server 6",ATN NEWS
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Islamic" tvg-logo="http://roarmediazone.com/tv/weblogo/94.jpg" group-title="BDIX Server 6",ATN Islamic
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="http://roarmediazone.com/tv/weblogo/106.jpg" group-title="BDIX Server 6",Bangla TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="http://roarmediazone.com/tv/weblogo/120.jpg" group-title="BDIX Server 6",Banglavision TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/113.jpg" group-title="BDIX Server 6",Boishakhi TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BDIX Server 6",BTV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSb1MKImRa4-SmCTjyXoJI4Y8QjRw7Al5vwPLm02QdawCkT5pv" group-title="BDIX Server 6",BTV World
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="http://roarmediazone.com/tv/weblogo/101.jpg" group-title="BDIX Server 6",Channel I
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="BDIX Server 6",Channel 9
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="http://roarmediazone.com/tv/img/channel24.jpg" group-title="BDIX Server 6",Channel 24
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://roarmediazone.com/tv/weblogo/99.jpg" group-title="BDIX Server 6",DBC News
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/68.jpg" group-title="BDIX Server 6",Deepto TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://roarmediazone.com/tv/weblogo/98.jpg" group-title="BDIX Server 6",Desh TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/84.jpg" group-title="BDIX Server 6",Duronto TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV" tvg-logo="http://roarmediazone.com/tv/weblogo/88.jpg" group-title="BDIX Server 6",Ekattor TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/87.jpg" group-title="BDIX Server 6",Ekushy TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/86.jpg" group-title="BDIX Server 6",Gaan Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" group-title="BDIX Server 6",Gazi TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="http://roarmediazone.com/tv/weblogo/67.jpg" group-title="BDIX Server 6",Independent TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="http://roarmediazone.com/tv/weblogo/61.jpg" group-title="BDIX Server 6",Jamuna TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="http://roarmediazone.com/tv/weblogo/78.jpg" group-title="BDIX Server 6",Maasranga
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="http://roarmediazone.com/tv/weblogo/77.jpg" group-title="BDIX Server 6",Mohona TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla TV" tvg-logo="" group-title="BDIX Server 6",Movie Bangla TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://roarmediazone.com/tv/weblogo/96.jpg" group-title="BDIX Server 6",MY TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="http://roarmediazone.com/tv/weblogo/110.jpg" group-title="BDIX Server 6",Nagorik TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="http://roarmediazone.com/tv/weblogo/65.jpg" group-title="BDIX Server 6",News 24
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://roarmediazone.com/tv/weblogo/111.jpg" group-title="BDIX Server 6",NTV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://roarmediazone.com/tv/weblogo/70.jpg" group-title="BDIX Server 6",RTV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="http://roarmediazone.com/tv/weblogo/121.jpg" group-title="BDIX Server 6",SA TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="" group-title="BDIX Server 6",Sangsad TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/59.jpg" group-title="BDIX Server 6",Somoy TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Akaash Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/109.jpg" group-title="BDIX Server 6",Akaash Aath
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="BDIX Server 6",Bangla Talkies
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/100.jpg" group-title="BDIX Server 6",Colors Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="BDIX Server 6",Dhoom Music
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="BDIX Server 6",Ruposhi Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="http://hitectv.live/anytv/sangeetbangla.png" group-title="BDIX Server 6",Sangeet bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="BDIX Server 6",Sony Aath
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://roarmediazone.com/tv/weblogo/90.jpg" group-title="BDIX Server 6",Star Jalsha HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies" tvg-logo="http://roarmediazone.com/tv/weblogo/125.jpg" group-title="BDIX Server 6",Star Jalsha Movies HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="BDIX Server 6",Zee Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="BDIX Server 6",Zee Bangla Cinema
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="BDIX Server 6",T Sports
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="http://roarmediazone.com/tv/weblogo/15.jpg" group-title="BDIX Server 6",Sony Ten 1 HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="http://roarmediazone.com/tv/weblogo/62.jpg" group-title="BDIX Server 6",Sony Ten 2 HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="http://roarmediazone.com/tv/weblogo/14.jpg" group-title="BDIX Server 6",Sony Ten 3 HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="http://roarmediazone.com/tv/weblogo/16.jpg" group-title="BDIX Server 6",Sony Six HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/24.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="Sony ESPN" tvg-logo="http://roarmediazone.com/tv/weblogo/57.jpg" group-title="BDIX Server 6",Sony ESPN
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="http://roarmediazone.com/tv/weblogo/89.jpg" group-title="BDIX Server 6",Star Sports 1
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="http://roarmediazone.com/tv/weblogo/41.jpg" group-title="BDIX Server 6",Star Sports 2
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="http://roarmediazone.com/tv/weblogo/13.jpg" group-title="BDIX Server 6",Star Sports Select 1
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="http://roarmediazone.com/tv/weblogo/12.jpg" group-title="BDIX Server 6",Star Sports Select 2
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="http://roarmediazone.com/tv/weblogo/92.jpg" group-title="BDIX Server 6",PTV Sports
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="" group-title="BDIX Server 6",WilloW
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="BDIX Server 6",Sky Sports Cricket
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MIX" tvg-logo="" group-title="BDIX Server 6",Sky Sports MIX
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://roarmediazone.com/tv/weblogo/54.jpg" group-title="BDIX Server 6",Cartoon Network
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nick" tvg-logo="" group-title="BDIX Server 6",Nick
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/55.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="http://roarmediazone.com/tv/weblogo/114.jpg" group-title="BDIX Server 6",Discovery HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="http://roarmediazone.com/tv/weblogo/83.jpg" group-title="BDIX Server 6",Nat Geo
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="BDIX Server 6",Sony BBC Earth HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And Pictures" tvg-logo="" group-title="BDIX Server 6",And Pictures
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="http://roarmediazone.com/tv/weblogo/44.jpg" group-title="BDIX Server 6",And TV HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie plus" tvg-logo="" group-title="BDIX Server 6",Bflix Movies
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="BDIX Server 6",Colors
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="http://roarmediazone.com/tv/weblogo/19.jpg" group-title="BDIX Server 6",Sony HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="BDIX Server 6",Sony Max HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="BDIX Server 6",Sony Max HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="BDIX Server 6",Sony Sab HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="BDIX Server 6",Star Gold HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://roarmediazone.com/tv/weblogo/115.jpg" group-title="BDIX Server 6",Star Plus HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://roarmediazone.com/tv/weblogo/02.jpg" group-title="BDIX Server 6",Zee TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="BDIX Server 6",Zee Action
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" tvg-logo="" group-title="BDIX Server 6",ZEE Bollywood
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="BDIX Server 6",Zee Cinema
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="http://roarmediazone.com/tv/weblogo/48.jpg" group-title="BDIX Server 6",And Flix
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/78.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://roarmediazone.com/tv/weblogo/116.jpg" group-title="BDIX Server 6",HBO
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="BDIX Server 6",Mnx
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="BDIX Server 6",Movies Now
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="BDIX Server 6",Sony Mix
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://roarmediazone.com/tv/weblogo/17.jpg" group-title="BDIX Server 6",Sony Pix
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="http://roarmediazone.com/tv/weblogo/05.jpg" group-title="BDIX Server 6",Zee Cafe HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="BDIX Server 6",9XM
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="" group-title="BDIX Server 6",9x Jalwa
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="BDIX Server 6",9x Jhakaas
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="BDIX Server 6",Zee ETC
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="BDIX Server 6",Zing
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="BDIX Server 6",Zoom
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="BDIX Server 6",Al Jazeera
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="" group-title="BDIX Server 6",DW NEWS
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="BDIX Server 6",Makkah Live
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="BDIX Server 6",PTV WORLD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/92.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" Website : https://bit.ly/01826655778 ",
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title=" Ashraful Alam (Sujon) ",
